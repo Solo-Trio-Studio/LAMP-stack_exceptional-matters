@@ -1,4 +1,4 @@
-package Applied Numerology
+package AppliedNumerology
 import "fmt"
 func main() {
     fmt.Println("Applied Numerology")
